@@ -1,7 +1,7 @@
-# Hi there 👋
+# Opa 👋
 
 
 - 🌱 Estudando: Python, PHP, Html, Javascript
-- 📫 How to reach me: Linkedin
+- 📫 Contato: Linkedin
 
 
